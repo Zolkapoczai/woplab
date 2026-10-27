@@ -1,6 +1,6 @@
 # Website Opportunity Lab
 
-Belső műhely magyar vállalatok weboldalának vizsgálatára, koncepciójának bemutatására és kivitelezési ajánlatára. A 2026. október 27-i kör 40 céget nézett meg, tízet auditált végig, és mind a tízhez kattintható koncepciót készített.
+Belső műhely magyar vállalatok weboldalának vizsgálatára, koncepciójának bemutatására és kivitelezési ajánlatára. A 2026. október 27-i kör 50 céget nézett meg, tízet auditált végig, és mind a tízhez kattintható koncepciót készített.
 
 A prototípusok nem a cégek hivatalos oldalai. Az űrlapok a böngészőben ellenőriznek, levelet nem küldenek.
 
